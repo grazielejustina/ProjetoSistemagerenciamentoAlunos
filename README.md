@@ -1,4 +1,4 @@
-# Projeto de Sistema de gerenciamento de Alunos: EdTech Bichinhos da TI
+# Projeto de Negócios: Data Explorers
 
 Contexto: Participação em uma maratona de programação na EdTech Bichinhos da TI com o desafio de otimizar o gerenciamento dos alunos e aumentar a segurança na gestão da informação e dos dados pessoais.
 
